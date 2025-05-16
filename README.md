@@ -1,2 +1,0 @@
-# Nm.
-Submission template 
